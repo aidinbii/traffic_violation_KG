@@ -1,5 +1,5 @@
 # Traffic violations in Bishkek
-Here I provide the Jupyter notebook with the analysis for this [post](link). \
+Here I provide the Jupyter notebook with the conducted analysis for this [post](https://aidinbii.netlify.app/blog/traffic_violation/). \
 You can reproduce all the tables and figures yourself.
 
 But first you need to download the data. The data for this analysis comes from [Open Data Platform of Kyrgyzstan](https://data.gov.kg/en/). \
